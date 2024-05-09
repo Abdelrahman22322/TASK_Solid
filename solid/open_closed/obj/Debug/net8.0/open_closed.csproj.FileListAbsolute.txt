@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\design_pattern\open_closed\obj\Debug\net8.0\open_closed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\design_pattern\open_closed\obj\Debug\net8.0\open_closed.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\design_pattern\open_closed\obj\Debug\net8.0\open_closed.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\design_pattern\open_closed\obj\Debug\net8.0\open_closed.csproj.CoreCompileInputs.cache
