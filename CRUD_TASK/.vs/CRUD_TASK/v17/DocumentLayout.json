@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8125E4F7-C424-4692-9306-15F69CA0A8FC}|AggregratorServices\\AggregratorServices.csproj|c:\\users\\asus\\source\\repos\\crud_task\\aggregratorservices\\aggregatorservices\\employeeaggregatorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8125E4F7-C424-4692-9306-15F69CA0A8FC}|AggregratorServices\\AggregratorServices.csproj|solutionrelative:aggregratorservices\\aggregatorservices\\employeeaggregatorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DC60B2-A1CF-4AC2-9C33-917B306CA7AE}|AggregratorContracts\\AggregratorContracts.csproj|c:\\users\\asus\\source\\repos\\crud_task\\aggregratorcontracts\\aggregatorcontracts\\icustomeraggregatorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DC60B2-A1CF-4AC2-9C33-917B306CA7AE}|AggregratorContracts\\AggregratorContracts.csproj|solutionrelative:aggregratorcontracts\\aggregatorcontracts\\icustomeraggregatorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|c:\\users\\asus\\source\\repos\\crud_task\\crud\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|solutionrelative:crud\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|c:\\users\\asus\\source\\repos\\crud_task\\services\\productgetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|solutionrelative:services\\productgetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\asus\\source\\repos\\crud_task\\servicecontracts\\iproductgetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\iproductgetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|c:\\users\\asus\\source\\repos\\crud_task\\services\\productdeleterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|solutionrelative:services\\productdeleterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\asus\\source\\repos\\crud_task\\servicecontracts\\iproductsdeleterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\iproductsdeleterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|c:\\users\\asus\\source\\repos\\crud_task\\crud\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|solutionrelative:crud\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|c:\\users\\asus\\source\\repos\\crud_task\\services\\ordergetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|solutionrelative:services\\ordergetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\asus\\source\\repos\\crud_task\\servicecontracts\\iordergetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\iordergetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|c:\\users\\asus\\source\\repos\\crud_task\\crud\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|solutionrelative:crud\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|c:\\users\\asus\\source\\repos\\crud_task\\services\\employeedeleterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|solutionrelative:services\\employeedeleterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\asus\\source\\repos\\crud_task\\servicecontracts\\iemployeedeleterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\iemployeedeleterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|c:\\users\\asus\\source\\repos\\crud_task\\services\\employeegetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D59B9720-7460-4829-ABF7-73A244AD98D7}|Services\\Services.csproj|solutionrelative:services\\employeegetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|c:\\users\\asus\\source\\repos\\crud_task\\crud\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|solutionrelative:crud\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\asus\\source\\repos\\crud_task\\servicecontracts\\iemployeegetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114431FD-19FA-453D-81E0-DF6CF01D76FC}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\iemployeegetterservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|c:\\users\\asus\\source\\repos\\crud_task\\crud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D174E40-EA04-413A-A1B3-263B0FF12276}|crud\\crud.csproj|solutionrelative:crud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeAggregatorServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\AggregratorServices\\AggregatorServices\\EmployeeAggregatorServices.cs",
+              "RelativeDocumentMoniker": "AggregratorServices\\AggregatorServices\\EmployeeAggregatorServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\AggregratorServices\\AggregatorServices\\EmployeeAggregatorServices.cs",
+              "RelativeToolTip": "AggregratorServices\\AggregatorServices\\EmployeeAggregatorServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:59:03.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomerAggregatorServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\AggregratorContracts\\AggregatorContracts\\ICustomerAggregatorServices.cs",
+              "RelativeDocumentMoniker": "AggregratorContracts\\AggregatorContracts\\ICustomerAggregatorServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\AggregratorContracts\\AggregatorContracts\\ICustomerAggregatorServices.cs",
+              "RelativeToolTip": "AggregratorContracts\\AggregatorContracts\\ICustomerAggregatorServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:58:58.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductGetterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\ProductGetterServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductGetterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\ProductGetterServices.cs",
+              "RelativeToolTip": "Services\\ProductGetterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:00:35.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductGetterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IProductGetterServices.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IProductGetterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IProductGetterServices.cs",
+              "RelativeToolTip": "ServiceContracts\\IProductGetterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T00:00:35.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDeleterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\ProductDeleterServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductDeleterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\ProductDeleterServices.cs",
+              "RelativeToolTip": "Services\\ProductDeleterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:59:53.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductsDeleterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IProductsDeleterServices.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IProductsDeleterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IProductsDeleterServices.cs",
+              "RelativeToolTip": "ServiceContracts\\IProductsDeleterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:59:53.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\ProductService.cs",
+              "RelativeDocumentMoniker": "crud\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\ProductService.cs",
+              "RelativeToolTip": "crud\\ProductService.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAkwJEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:56:09.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderGetterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\OrderGetterServices.cs",
+              "RelativeDocumentMoniker": "Services\\OrderGetterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\OrderGetterServices.cs",
+              "RelativeToolTip": "Services\\OrderGetterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:47:51.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderGetterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IOrderGetterServices.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IOrderGetterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IOrderGetterServices.cs",
+              "RelativeToolTip": "ServiceContracts\\IOrderGetterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:47:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\OrderService.cs",
+              "RelativeDocumentMoniker": "crud\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\OrderService.cs",
+              "RelativeToolTip": "crud\\OrderService.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:09:02.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDeleterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\EmployeeDeleterServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeDeleterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\EmployeeDeleterServices.cs",
+              "RelativeToolTip": "Services\\EmployeeDeleterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:04:15.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IEmployeeDeleterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IEmployeeDeleterServices.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IEmployeeDeleterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IEmployeeDeleterServices.cs",
+              "RelativeToolTip": "ServiceContracts\\IEmployeeDeleterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:04:15.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmployeeGetterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IEmployeeGetterServices.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\IEmployeeGetterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\ServiceContracts\\IEmployeeGetterServices.cs",
+              "RelativeToolTip": "ServiceContracts\\IEmployeeGetterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:02:26.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeGetterServices.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\EmployeeGetterServices.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeGetterServices.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\Services\\EmployeeGetterServices.cs",
+              "RelativeToolTip": "Services\\EmployeeGetterServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:04:05.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "crud\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\EmployeeService.cs",
+              "RelativeToolTip": "crud\\EmployeeService.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAowIsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:57:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\CustomerService.cs",
+              "RelativeDocumentMoniker": "crud\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\CustomerService.cs",
+              "RelativeToolTip": "crud\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:49:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\Startup.cs",
+              "RelativeDocumentMoniker": "crud\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\CRUD_TASK\\crud\\Startup.cs",
+              "RelativeToolTip": "crud\\Startup.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwEYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:46:18.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
